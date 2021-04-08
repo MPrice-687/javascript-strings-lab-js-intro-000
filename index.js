@@ -8,6 +8,8 @@ var topic = "space";
 
 var conversation = `${topic}`;
 
+var space = "let's talk about space.";
+
 console.log(greetSpecialGuest)
 
-console.log(conversation)
+console.log(space)
