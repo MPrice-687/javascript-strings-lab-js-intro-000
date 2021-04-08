@@ -12,4 +12,4 @@ var space = "let's talk about";
 
 console.log(greetSpecialGuest)
 
-console.log("conversation
+console.log("conversation topic")
