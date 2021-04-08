@@ -7,5 +7,3 @@ var greetSpecialGuest = "" + specialGuest + "!";
 var topic = "space";
 
 var conversation = `${topic}`;
-
-consle.log("Hello," specialGuest,)
