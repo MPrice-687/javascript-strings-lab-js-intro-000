@@ -10,4 +10,4 @@ var conversation = `${topic}`;
 
 console.log(greetSpecialGuest)
 
-console.log("space ${topic}")
+console.log(conversation)
