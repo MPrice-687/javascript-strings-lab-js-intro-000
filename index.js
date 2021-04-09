@@ -10,4 +10,4 @@ var conversation = `${topic}`;
 
 console.log(greetSpecialGuest)
 
-console.log("Let's talk about conversation.")
+`Let's talk about ${conversation}.`
